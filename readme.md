@@ -7,10 +7,13 @@ Install all required dependencies using:
 
 ```bash
 pip install -r requirements.txt
+```
 
+Run training using:
 
+```bash
 python train_yolo.py
-
+```
 
 | Input 1                                 | Input 2                                 |
 | --------------------------------------- | --------------------------------------- |
