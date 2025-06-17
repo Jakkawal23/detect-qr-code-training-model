@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['qr_code']
+
+roboflow:
+  workspace: dogs-lkgk6
+  project: meter_qr_code
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/dogs-lkgk6/meter_qr_code/dataset/1
