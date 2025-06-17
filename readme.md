@@ -11,6 +11,7 @@ pip install -r requirements.txt
 
 python train_yolo.py
 
+![Input 1](images/Example_input_01.jpg)
 
 | Input 1                                 | Input 2                                 |
 | --------------------------------------- | --------------------------------------- |
