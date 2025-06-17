@@ -1,5 +1,5 @@
 
-# YOLOv8 Digit Detection
+# YOLOv8 QR Code Detection
 
 ## 📦 Installation
 
