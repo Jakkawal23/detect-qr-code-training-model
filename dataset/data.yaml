@@ -8,6 +8,6 @@ names: ['qr_code']
 roboflow:
   workspace: dogs-lkgk6
   project: meter_qr_code
-  version: 1
+  version: 6
   license: CC BY 4.0
-  url: https://universe.roboflow.com/dogs-lkgk6/meter_qr_code/dataset/1
+  url: https://universe.roboflow.com/dogs-lkgk6/meter_qr_code/dataset/6

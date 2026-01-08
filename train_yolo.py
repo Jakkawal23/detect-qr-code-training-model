@@ -7,7 +7,10 @@ model = YOLO("yolov8n.pt")
 model.train(
     data="dataset/data.yaml",        # path ไปยัง data.yaml ที่อธิบาย dataset
     epochs=100,
+    patience=20, 
+    batch=8,
     imgsz=640,
     project="runs/train",
-    name="meter-model"
+    name="qr-code-model-2.0",
+    augment=True
 )
